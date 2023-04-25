@@ -1,0 +1,10 @@
+----------------------------------------
+Goods in the receipt
+ID | Good | Price | Amount | Sum
+1 Sweatshirt 800.00 1 800.00
+2 Hoodie 950.00 1 950.00
+3 Sweater 1000.00 3 3000.00
+4 Coat 2000.00 1 2000.00
+Total: 6750.00
+Thanks for chosing Appol Production. U`r welcome!
+----------------------------------------
